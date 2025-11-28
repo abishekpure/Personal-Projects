@@ -16,7 +16,7 @@ An application for analyzing historical GDP data and generating 10-year forecast
 ## Skills Used
 - Python  
 - Streamlit  
-- Time-Series Forecasting (ARIMA)  
+- **ARIMA** Time-Series Forecasting  
 - Plotly  
 - API Integration  
 
