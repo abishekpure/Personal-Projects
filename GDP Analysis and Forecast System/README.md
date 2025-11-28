@@ -1,4 +1,4 @@
-# GDP Analysis and Forecast System
+# GDP Trend Analysis and Predictive Modeling System
 
 An application designed to analyze historical GDP data, visualize long-term economic trends and generate 10-year forecasts using ARIMA time-series modeling. The system integrates directly with WBA to ensure access to reliable and consistent global economic data.
 
