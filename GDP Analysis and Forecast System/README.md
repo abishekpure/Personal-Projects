@@ -1,6 +1,6 @@
 # GDP Analytics, Visualization & Forecasting System
 
-A Streamlit application for analyzing historical GDP data and generating 10-year forecasts using World Bank API data and ARIMA time-series modeling.
+An application for analyzing historical GDP data and generating 10-year forecasts using exploratory data analysis and ARIMA time-series modeling.
 
 ---
 
